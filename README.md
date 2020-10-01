@@ -2,6 +2,6 @@
 An open-source Ghostrunner clone
 
 # Planned features:
-Level editor
-Customizable graphics
-Some other stuff idk
+Level editor <br />
+Customizable graphics <br />
+Some other stuff idk <br />
